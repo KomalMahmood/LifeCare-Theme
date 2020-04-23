@@ -1,1 +1,1 @@
-# LifeCare-Theme
+# LifeCare-Theme.
